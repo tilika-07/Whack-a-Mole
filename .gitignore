@@ -1,0 +1,16 @@
+# Java compiled files
+*.class
+
+# Build output
+bin/
+out/
+target/
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# OS files
+.DS_Store
